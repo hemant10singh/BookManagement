@@ -1,0 +1,19 @@
+{
+  "name": "book_management",
+  "version": "1.0.0",
+  "description": "A node.js project that implements the REST APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Hemant Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
